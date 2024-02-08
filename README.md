@@ -1,5 +1,7 @@
 # extract_tree
-extract tree references
+extract tree references</br>
+<img src="https://github.com/leggedrobotics/tree_detection/blob/main/doc/forest2.jog" alt="Example" width="400">
+
 # reference
 [Individual Tree Extraction](https://github.com/HiphonL/IndividualTreeExtraction)</br>
 [tree seg](https://github.com/apburt/treeseg)</br>
