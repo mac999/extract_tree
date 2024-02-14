@@ -1,5 +1,5 @@
-# extract_tree
-extract tree references</br>
+# outdoor object segmentation
+ground, tree etc</br>
 <img src="https://github.com/leggedrobotics/tree_detection/blob/main/doc/forest3.jpg" alt="Example" width="400">
 
 # tree segmentation reference
