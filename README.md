@@ -16,6 +16,12 @@ ground, tree etc</br>
 Ground removal using PCL, C++ [link](https://github.com/HViktorTsoi/pointcloud_ground_removal)</br>
 Ground extracction from point cloud using PCL, C++ [link](https://github.com/fazanham/Ground-Extraction-From-Point-Cloud)</br>
 Ground segmentation using GPF[#1](https://github.com/HusseinLezzaik/Segmentation-of-3D-Point-Cloud), [#2](https://arxiv.org/pdf/2207.11919.pdf) (ground plane fitting) [link](https://github.com/JonasHablitzel/PyGroundSegmentation)</br>
+Fast Ground Segmentation of 3D point cloud [link](https://github.com/chrise96/3D_Ground_Segmentation)</br>
 Grund Network using PyTorch [link](https://github.com/anshulpaigwar/GndNet)</br>
+Ground segmentation using Patchwork, ROS for vehicle, 2022 [link](https://github.com/url-kaist/patchwork-plusplus)</br>
+Ground segmentation using Patchwork, ROS for vehicle, 2021 [link](https://github.com/LimHyungTae/patchwork)</br>
+Ground segmentation using Linefit, ROS, for vehicle, 2010 [link](https://github.com/lorenwel/linefit_ground_segmentation)</br>
+Ground segmentation using ROS for vehicle [link](https://github.com/wangx1996/Fast-Ground-Segmentation-Based-on-JPC)</br>
 Ground removal using ground point slope, limit range [link](https://github.com/SilvesterHsu/LiDAR_ground_removal)</br>
 Point cloud processing including ground detection with height range using python [link](https://github.com/Chim-SO/pointcloudprocessing)</br>
+[GitHub list](https://github.com/topics/ground-segmentation?l=c%2B%2B&o=desc&s=stars)</br>
