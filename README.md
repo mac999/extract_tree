@@ -5,6 +5,7 @@ ground, tree etc</br>
 # filter reference
 SOR(Statistical Outlier Removal) filter [link](https://pcl.readthedocs.io/projects/tutorials/en/latest/statistical_outlier.html)</br>
 kNN</br>
+Normal vector and curvature filter</br>
 
 # tree segmentation reference
 [Individual Tree Extraction](https://github.com/HiphonL/IndividualTreeExtraction)</br>
