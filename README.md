@@ -27,3 +27,10 @@ Ground removal using ground point slope, limit range [link](https://github.com/S
 Point cloud processing including ground detection with height range using python [link](https://github.com/Chim-SO/pointcloudprocessing)</br>
 DTM using Cloud Compare [link](https://www.youtube.com/watch?v=48WcjQDMTAM)
 [GitHub list](https://github.com/topics/ground-segmentation?l=c%2B%2B&o=desc&s=stars)</br>
+
+# outdoor segmentation reference
+3DMASC [link1](https://www.danielgm.net/cgi-bin/dada/mail.cgi/r/CCUpdateList/371107718961/ffaa0b56b8a7fb0f4547d67f1f9d203b/)[link2](https://www.sciencedirect.com/science/article/abs/pii/S0924271623003337?via%3Dihub)</br>
+GraNet [link](https://www.sciencedirect.com/science/article/abs/pii/S0924271621001209)</br>
+A structured regularization framework for spatially smoothing semantic labelings of 3D point clouds [link](https://www.sciencedirect.com/science/article/abs/pii/S0924271617302988)</br>
+
+
