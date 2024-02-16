@@ -11,6 +11,7 @@ ground, tree etc</br>
 [Point-Cloud-Tools](https://github.com/tuomasyr/Point-Cloud-Tools)</br>
 [tree graph](https://github.com/mattbv/treegraph)</br>
 [Extracting individual trees from lidar point clouds using treeseg](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13121)
+[Reddit QA](https://www.reddit.com/r/QGIS/comments/10x4yyc/removing_trees_and_buildings_from_contours/)
 
 # ground segmentation reference
 Ground removal using PCL, C++ [link](https://github.com/HViktorTsoi/pointcloud_ground_removal)</br>
@@ -24,4 +25,5 @@ Ground segmentation using Linefit, ROS, for vehicle, 2010 [link](https://github.
 Ground segmentation using ROS for vehicle [link](https://github.com/wangx1996/Fast-Ground-Segmentation-Based-on-JPC)</br>
 Ground removal using ground point slope, limit range [link](https://github.com/SilvesterHsu/LiDAR_ground_removal)</br>
 Point cloud processing including ground detection with height range using python [link](https://github.com/Chim-SO/pointcloudprocessing)</br>
+DTM using Cloud Compare [link](https://www.youtube.com/watch?v=48WcjQDMTAM)
 [GitHub list](https://github.com/topics/ground-segmentation?l=c%2B%2B&o=desc&s=stars)</br>
