@@ -2,6 +2,10 @@
 ground, tree etc</br>
 <img src="https://github.com/leggedrobotics/tree_detection/blob/main/doc/forest3.jpg" alt="Example" width="400">
 
+# filter reference
+SOR(Statistical Outlier Removal) filter [link](https://pcl.readthedocs.io/projects/tutorials/en/latest/statistical_outlier.html)</br>
+kNN</br>
+
 # tree segmentation reference
 [Individual Tree Extraction](https://github.com/HiphonL/IndividualTreeExtraction)</br>
 [tree seg](https://github.com/apburt/treeseg)</br>
