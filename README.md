@@ -32,7 +32,7 @@ Ground removal using ground point slope, limit range [link](https://github.com/S
 Point cloud processing including ground detection with height range using python [link](https://github.com/Chim-SO/pointcloudprocessing)</br>
 DTM using Cloud Compare [link](https://www.youtube.com/watch?v=48WcjQDMTAM)
 [GitHub list](https://github.com/topics/ground-segmentation?l=c%2B%2B&o=desc&s=stars)</br>
-CSF filter [link1](https://github.com/jianboqi/CSF)[link2](https://www.cloudcompare.org/doc/wiki/index.php/CSF_(plugin))</br>
+CSF filter [link1](https://github.com/jianboqi/CSF), [link2](https://www.cloudcompare.org/doc/wiki/index.php/CSF_(plugin))</br>
 
 
 # outdoor segmentation reference
