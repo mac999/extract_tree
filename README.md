@@ -38,5 +38,7 @@ CSF filter [link1](https://github.com/jianboqi/CSF), [link2](https://www.cloudco
 3DMASC [link1](https://www.danielgm.net/cgi-bin/dada/mail.cgi/r/CCUpdateList/371107718961/ffaa0b56b8a7fb0f4547d67f1f9d203b/)[link2](https://www.sciencedirect.com/science/article/abs/pii/S0924271623003337?via%3Dihub)</br>
 GraNet [link](https://www.sciencedirect.com/science/article/abs/pii/S0924271621001209)</br>
 A structured regularization framework for spatially smoothing semantic labelings of 3D point clouds [link](https://www.sciencedirect.com/science/article/abs/pii/S0924271617302988)</br>
+Mesh R-CNN [link](https://github.com/facebookresearch/meshrcnn)</br>
+nDSM and Bld3d Neural Network [link](https://medium.com/geoai/3d-buildings-from-imagery-with-ai-fbbc1852e4dd)</br>
 
 
