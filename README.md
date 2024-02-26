@@ -8,7 +8,7 @@ kNN</br>
 Normal vector and curvature filter</br>
 
 # tree segmentation reference
-To calculate tree's carbon, treetool can generate tree information [tree tool](https://github.com/porteratzo/TreeTool)</br>
+To calculate tree's carbon, treetool can generate tree information using pclpy [tree tool](https://github.com/porteratzo/TreeTool)</br>
 Tree extraction using PDE-net [Individual Tree Extraction](https://github.com/HiphonL/IndividualTreeExtraction)</br>
 Tree dection using ROS, C++ [tree detection](https://github.com/leggedrobotics/tree_detection)</br>
 Using RIEGL V-Line data, C++ algorithm, treeseg can make tree segments [tree seg](https://github.com/apburt/treeseg)</br>
