@@ -43,5 +43,7 @@ A structured regularization framework for spatially smoothing semantic labelings
 Mesh R-CNN [link](https://github.com/facebookresearch/meshrcnn)</br>
 nDSM and Bld3d Neural Network [link](https://medium.com/geoai/3d-buildings-from-imagery-with-ai-fbbc1852e4dd)</br>
 Point cloud analysis [link](https://github.com/Yochengliu/awesome-point-cloud-analysis)</br>
+[3D vision process tool
+](https://learngeodata.eu/3d-deep-learning-course/)</br>
 
 
